@@ -1,70 +1,3 @@
-'''''''''
-Design the Web Interface:
-
--Create a simple web interface using HTML, CSS, and JavaScript.
--Include input fields for the target IP address, port number, and payload options.
--Add a button to generate the reverse shell payload.
-
-Create the Reverse Shell Payload:
-
--Use Python to create a reverse shell payload.
--Implement the payload using the socket and subprocess modules.
--The payload should connect back to the attacker's machine and execute commands.
-
-Bypass Antivirus and Firewall:
-
--Use encoding techniques to bypass antivirus detection.
--Implement encryption to bypass firewall restrictions.
--Use polymorphic code to evade signature-based detection.
-
-Payload Options:
-
--Create different payloads for different operating systems (Windows, Linux, macOS).
--Implement payloads for different programming languages (Python, C, Rust).
--Include options for customizing the payload (e.g., encryption, encoding).
-
-Cross-OS Shells:
-
--Create separate payloads for each operating system.
--Implement cross-platform compatibility by using a common scripting language (e.g., Python).
--Use conditional statements to handle different OS-specific commands.
-
-Testing and Deployment:
-
--Test the tool on your own network to ensure it works as expected.
--Deploy the tool securely, ensuring it is only accessible to authorized users.
--Implement logging and monitoring to track the tool's usage and detect any suspicious activity.
-
-So we are doing it in html kinda style? 
-might as well
-i can start on the web interface and you can start on the reverse shell payload
-sure   
-so you are frontend and i am backend and together we are fullstack :) :) 
-:)
-hell yeah lets go
-We should buy a raspberry pi and make a little server out of it
-We could get the user to locally host it like the miku ddos
-yeah prolly would be better
-idk how to do that though
-
-maybe a domain name too
-lets see though
-anyway 
-I can add a new file to this which is html + css which you can work on 
-yeah
-okay 
-Byeee
-gonna shit first 
-have fun :)
-# Lets do a little plan, slightly pseudocodey 
-'''
-
-
-
-
-
-
-
 import time 
 import random
 restart = True
@@ -265,8 +198,10 @@ while restart == True:
         atk = (bash_i)
     if attack == 2:
         atk = (powershell)
-
-
+    if attack == 3:
+        atk = ("in construction")
+    if attack == 4:
+        atk = ("in construction")
 
 
 ## Listener ##
@@ -309,5 +244,3 @@ print(outro)
 
 time.sleep(3)    
 input("Press enter to exit: ")
-
-
