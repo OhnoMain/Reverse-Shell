@@ -1,3 +1,3 @@
 # Reverse-Shell
 
-A simple locally hosted web application with embeded python 
+A simple locally hosted web application with python 
