@@ -16,7 +16,7 @@ More listener options
 
 A simple tkinter gui
 
-<h2>#How to use?</h2>
+<h2>How to use?</h2>
 
 _"copy these commands into the linux terminal"_
 
@@ -24,5 +24,13 @@ _"copy these commands into the linux terminal"_
 
 2. cd Reverse-Shell/
 
-3. python3 
+3. python3 reverseShell.py
+
+**And Boom! Your done**
+
+_If you need help please leave a request in the issues page or type 'help' into the python script_
+
+**Thank you for using this script and thank you for your support and enjoy hacking :)**
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ5bHQ2cXkyenU4ajc1YWdpNGlua2Z6dm10Nmt4YnhxZHp3bXBrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif">
 
