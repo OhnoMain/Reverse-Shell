@@ -1,31 +1,33 @@
-<h1>Reverse-Shell Generator</h1>
+# 🐚 Reverse-Shell Generator
 
-_Created by Frazzled7343 & OhnoMain A terminal-based reverse shell generator for Linux and Windows_
+_Created by **Frazzled7343** & **OhnoMain** — A terminal-based reverse shell generator for Linux and Windows._
 
-Select from listener types: netcat, powercat, pwncat, or msfconsole
+💻 **Supports listener types**: `netcat`, `powercat`, `pwncat`, and `msfconsole`  
+🐍 **Generates payloads** for: Bash & PowerShell (non-FUD)
 
-Generate payloads for Bash or Powershell (not FUD)
+---
 
-**What is being worked on?**
+## 🚧 What’s Being Worked On?
 
-A Web UI
+- 🌐 A Web UI  
+- 🎯 More attacker options  
+- 🎧 More listener types  
+- 🪟 A simple Tkinter GUI  
 
-More attacker options 
+---
 
-More listener options
-
-A simple tkinter gui
-
-<h2>How to use?</h2>
+<h2>How to use</h2>
 
 _"copy these commands into the linux terminal"_
-
+```bash 
 1. git clone https://github.com/OhnoMain/Reverse-Shell.git
-
+```
+```bash
 2. cd Reverse-Shell/
-
+```
+```bash
 3. python3 reverseShell.py
-
+```
 **And Boom! Your done**
 
 _If you need help please leave a request in the issues page or type 'help' into the python script_
