@@ -32,7 +32,9 @@ _"copy these commands into the linux terminal"_
 
 _If you need help please leave a request in the issues page or type 'help' into the python script_
 
-**Thank you for using this script and thank you for your support and enjoy hacking :)**
+**Thank you for using this script and thank you for your support and feel free to drop a star**
+
+**enjoy hacking :)**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ5bHQ2cXkyenU4ajc1YWdpNGlua2Z6dm10Nmt4YnhxZHp3bXBrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif">
 
