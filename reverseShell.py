@@ -57,12 +57,11 @@ We are not reliable for any damage done to any machines or devices.
 outro = f'''
 <------------------------------------------------>
       
-            made by Frazzled and Ohno
+            made by Ohno
       
         feel free to checkout the github at 
             https://github.com/OhnoMain 
-                         and 
-            https://github.com/Frazzled7343
+              
       
 <------------------------------------------------->             
 \n
@@ -90,7 +89,7 @@ banner = '''
 ╚██████╔╝███████╗██║ ╚████║███████╗██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║
  ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
                                                                              
-                    made by Frazzled and Ohno
+                    made by Ohno
 '''
 
 
