@@ -1,6 +1,6 @@
 # 🐚 Reverse-Shell Generator
 
-_Created by **Frazzled7343** & **OhnoMain** — A terminal-based reverse shell generator for Linux and Windows._
+_Created by **OhnoMain** — A terminal-based reverse shell generator for Linux and Windows._
 
 💻 **Supports listener types**: `netcat`, `powercat`, `pwncat`, and `msfconsole`  
 🐍 **Generates payloads** for: Bash & PowerShell (non-FUD)
